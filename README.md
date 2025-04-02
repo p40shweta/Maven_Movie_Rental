@@ -1,4 +1,7 @@
 # Maven_Movie_Rental Unlocking Insights for a Rental Business
+<img src="banner.jpg
+
+
 
 
 
